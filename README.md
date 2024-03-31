@@ -8,6 +8,7 @@ For now I am simply migrating existing files, but once Ubuntu 24.4 is released, 
 ## Dependencies
 ### Git
 TODO 
+#### Git Credential Manager
 
 ### Stow
 ``` sh
