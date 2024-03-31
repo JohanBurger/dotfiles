@@ -5,3 +5,23 @@ This repo is intended to store the various dotfiles I use, mainly with WSL. Init
 
 For now I am simply migrating existing files, but once Ubuntu 24.4 is released, I'll add some info on how to install the dependencies. 
 
+## Dependencies
+### Git
+TODO 
+
+### Stow
+``` sh
+sudo apt-get update -y
+sudo apt-get install -y stow
+cd ~/dotfiles
+stow --adopt .
+```
+
+### zsh
+TODO
+
+### tmux
+TODO
+
+### NeoVim
+TODO
